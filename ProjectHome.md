@@ -1,0 +1,1 @@
+Série de trabalhos da disciplina compiladores com o objetivo de gerar um compilador para a linguagem  MiniC
